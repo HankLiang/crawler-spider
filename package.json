@@ -1,0 +1,13 @@
+{
+  "name": "first-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "first": "node src/first.js",
+    "demo": "node src/demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
